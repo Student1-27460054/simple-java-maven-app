@@ -1,9 +1,6 @@
-import org.junit.jupiter.api.Test;
-import org.junit.jupiter.api.Assertions;
-package com.mycompany.app;
+package com.mycompany.app;  // Ensure this is the first line of the file
 
 import org.junit.jupiter.api.Test;
-
 import static org.junit.jupiter.api.Assertions.assertEquals;
 
 /**
